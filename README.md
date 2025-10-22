@@ -38,6 +38,7 @@
 
 # 📜 Log Harian
 
-| 🗓️ Tanggal    | 🔍 Topik    | 📚 Detail                                |
-| -------------- | ----------- | ---------------------------------------- |
-| **22/10/2025** | TailwindCSS | • Animation<br>• Utilities<br>• Keyframe |
+| 🗓️ Tanggal    | 🔍 Topik    | 📝 Tema | 📚 Detail|
+| -------------- | ----------- | -------- | ------------------------------- |
+| **20/10/2025** | Proyek | Pengadilan Agama | • Struktur CodeIgniter<br>• TailwindCSS |
+| **22/10/2025** | Belajar |  Mengulang kembali pembelajaran | • Animation <br>• Keyframe <br>• Utilites  |
