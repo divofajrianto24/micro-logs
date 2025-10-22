@@ -13,3 +13,10 @@ Kumpulan catatan singkat harian tentang hal yang saya pelajari. Satu hari, satu 
 
 - Software Engineer
 - Full-Stack Engineer
+
+## 💻 Bahasa Pemrograman
+
+- HTML
+- CSS
+- PHP
+- Python
