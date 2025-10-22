@@ -8,3 +8,8 @@ Kumpulan catatan singkat harian tentang hal yang saya pelajari. Satu hari, satu 
 
 - Konsisten belajar setiap hari
 - Mempelajari hal-hal baru
+
+## ⭐ Cita-Cita
+
+- Software Engineer
+- Full-Stack Engineer
